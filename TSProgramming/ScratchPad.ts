@@ -4,7 +4,7 @@
 
 // V REAL CODE BELOW V
 
-function RunContents(): void {
-  console.log("Hello World from TypeScript!")
+function RunScratchContents(): void {
+  console.log('Hello world from TypeScript!');
 }
-RunContents();
+RunScratchContents();

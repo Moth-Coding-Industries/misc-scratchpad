@@ -1,8 +1,7 @@
-// This is my scratchpad file for TypeScript: ScratchPad.ts!
-/* Here, we write our small experiments in TypeScript before they get their own file! Very fun, I know! 
-*/
+// Welcome to my TypeScript scratch pad file: ScratchPad.ts!
+/* Here, we write our small experiments in TypeScript before they get their own file in the Codespace!
+*///--------------------------------------------------------------------------------------------------
 
 function RunScratchContents(): void {
-  console.log('Hello world from TypeScript!');
-}
-RunScratchContents();
+
+} RunScratchContents();

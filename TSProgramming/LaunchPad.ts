@@ -3,6 +3,6 @@
 *///------------------------------------------------------------------------------------------
 
 
-// OFF RunScratchContents();
+// OFF runScratchContents();
 
-// OFF RunUserInput();
+// OFF runUserInput();
